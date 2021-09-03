@@ -7,7 +7,7 @@ Despite its’ innate weirdness, quantum mechanics has never failed a single exp
 ## The Delayed Choice Experiment
  In 1978, John Archibald Wheeler, an American physicist, conducted a thought experiment called the Delayed Choice experiment, trying to understand the quantum nature of light. Wheeler imagined the light from a distant quasar being gravitationally lensed by a closer galaxy; this light would appear (for the observer on earth) to be coming from two slightly different points due to gravitational lensing – there would be two apparent sources of light.
  
-![Delayed Choice Experiment](DCQE\capture.png "Delayed Choice")
+![Delayed Choice Experiment](DCQE/Images/Capture.PNG)
 
 Now, Wheeler then realized that there were two ways to observe the light – 
 First, he could place a detector placed at each lensed image. As the source of the light, and thus the path of the ray which each detector was receiving was known, the detectors would simply show light behaving as a particle.
