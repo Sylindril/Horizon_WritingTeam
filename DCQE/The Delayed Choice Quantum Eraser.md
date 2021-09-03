@@ -7,16 +7,16 @@ Despite its’ innate weirdness, quantum mechanics has never failed a single exp
 ## The Delayed Choice Experiment
  In 1978, John Archibald Wheeler, an American physicist, conducted a thought experiment called the Delayed Choice experiment, trying to understand the quantum nature of light. Wheeler imagined the light from a distant quasar being gravitationally lensed by a closer galaxy; this light would appear (for the observer on earth) to be coming from two slightly different points due to gravitational lensing – there would be two apparent sources of light.
  
-![Delayed Choice Experiment](DCQE/Images/Capture.PNG)
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/Capture.PNG)
 
 Now, Wheeler then realized that there were two ways to observe the light – 
 First, he could place a detector placed at each lensed image. As the source of the light, and thus the path of the ray which each detector was receiving was known, the detectors would simply show light behaving as a particle.
 
-![Delayed Choice Experiment](DCQE\ghj.png "Particle nature")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/ghj.PNG "Particle nature")
 
 Second, he could place an interferometer at the junction of the two light sources. In this case, the combined light from these two sources would appear as a wave and create an interference pattern, as the precise source of light wouldn’t be known, in accordance with quantum mechanics.
 
-![Delayed Choice Experiment](DCQE\eedwg.png "Wave nature")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/eedwg.PNG "Wave nature")
  
 So far, so good. Why is this called “Delayed Choice”? 
 
@@ -27,11 +27,11 @@ No, as we have another, viable explanation – the light exists as in a “super
 The thought experiment was converted into an actual setup, as shown below, confirming these results.
  
 ## The Delayed Choice Quantum Eraser Experiment
-![Delayed Choice Experiment](DCQE\actual_setup.png "Experimental setup")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/actual_setup.PNG "Experimental setup")
 
 However, another more recent experiment used a more complex method to investigate the idea of the future influencing the past, by introducing something called a “quantum eraser” to the delayed choice. So, it’s called the Delayed Choice Quantum Eraser experiment., constructed by Kim, Kulik, Shih and Scully in 1999.
  
-![Delayed Choice Experiment](DCQE\modern_experiment.png "Kim et al. 1999")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/modern_experiment.png "Kim et al. 1999")
 
 The actual experimental set-up is quite complicated, so we’ll use a simpler 'skeleton' model which is easier to understand.
 
@@ -43,17 +43,17 @@ We pass photons from the light gun **one at a time**, each of which pass through
 
 Each photon, **after passing through the slit**, gets split into an **entangled pair** of photons due to the BBO crystal.
 
-![Delayed Choice Experiment](DCQE\skeleton1.png "Setup")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/skeleton1.PNG "Setup")
 
 We use entangled photons so that we can measure one photon, without disturbing the other. Yet, measuring any one entangled photon will tell us about the nature of the other entangled pair, as both pairs must collapse in the same “state” in the opposite “sense” (spin) by the laws of quantum mechanics.
 
-![Delayed Choice Experiment](DCQE\skeleton2.png "Setup")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/skeleton2.PNG "Setup")
 
 Now, we introduce a lens near the top slit; this way, regardless of whether the entangled photon came from the bottom or the top slit, it will end up moving on the same path after being focused, and the detector placed after the lens won’t know from which slit the entangled photon originally came.
 
 This lens thus **erases the information of the path of the photon**, and is called a “Quantum Eraser”
  
-![Delayed Choice Experiment](DCQE\skeleton3.png "Setup")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/skeleton3.PNG "Setup")
 
 Now, we pass the other entangled pair of a photon through a beam splitter. A beam splitter has a 50-50 chance of either **diverting the beam**, or **allowing it to pass through**. 
 
@@ -75,22 +75,22 @@ Keeping this in mind, let’s start the experiment.
 
 •	Detector 1 will give us either a **particle interference pattern, or a wave interference pattern**. 
 
-![Delayed Choice Experiment](DCQE\gif1.gif "Experiment")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif1.gif "Experiment")
 
 •	If detector 4 lights up, we can’t tell which slit the entangled pair was created from – thus, the path information has been erased if the beam is diverted,and we get a wave interference.
  
-![Delayed Choice Experiment](DCQE\gif2.gif "Experiment")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif2.gif "Experiment")
 
 •	If detector 2 lights up, we know that the entangled pair must have come from the upper slit – path information is preserved, we get a particle interference.
  
 
-![Delayed Choice Experiment](DCQE\gif3.gif "Experiment") 
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif3.gif "Experiment") 
 
 •	If detector 3 lights up, we know that the entangled pair must have come from the lower slit - path information is preserved, we get a particle interference.
 
 Now, so far, nothing seems out of the ordinary – or does it? Here’s the twist!
 
-![Delayed Choice Experiment](DCQE\gif4.gif "Experiment")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif4.gif "Experiment")
  
 **The distance between slits and detector 1 is much shorter than the distance between the slit and the beam splitter!**
 What does that mean?
@@ -99,13 +99,13 @@ What does that mean?
 The decision for the photon to be a particle or a wave **_is made at the BEAM SPLITTER!_** If the photon is deflected, it’ll provide a wave interference; elsewise, it’ll provide a particle interference. However, the photon reaches the beam splitter **after** it has reached – and created an interference pattern – at detector 1!
 
 
- ![Delayed Choice Experiment](DCQE\gif5.gif "Experiment")
+ ![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif5.gif "Experiment")
 
  (Note: The illustration combines the experiment for two separate entangled photon pairs, coming from the bottom slit and top slit - hence the blue and pink colored lines; the experiment is actually carried out one entangled photon pair at a time)
 
-![Delayed Choice Experiment](DCQE\gif6.gif "Experiment")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif6.gif "Experiment")
 
-![Delayed Choice Experiment](DCQE\gif7.gif "Experiment")
+![Delayed Choice Experiment](https://github.com/Sylindril/Horizon_WritingTeam/blob/master/DCQE/Images/gif7.gif "Experiment")
  
 Essentially, the photon “decides” to behave as a particle or a wave at the beam splitter – after it has already created an interference pattern!
 Does this mean that the 'future' decision (to behave as a particle or a wave) influences the 'past' (which pattern is shown by the entangled pair)? 
